@@ -36,11 +36,10 @@ The different sheets/tables are automatically connected by Power BI in a star sc
 
 ![](modelling.png)
 
-## Analysis 
----
+# Analysis 
 You can interact with this by clicking [here](https://app.powerbi.com/groups/me/reports/08b62829-ebc0-4ef7-8f13-619c81d800f0/ReportSection?experience=power-bi)
-
-![](dashboard.jpg)
+---
+![](dashboard.png)
 
 This Premier League dashboard serves as a valuable tool for providing actionable insights and facilitating data-driven decision-making in the context of one of the world's most prestigious football competitions.
 In summary, This visualization explains how the general performance of each team in the league is being affected by some statistics that have been explained below;
@@ -49,7 +48,17 @@ In summary, This visualization explains how the general performance of each team
 - Top 5 teams with most Assists
 - Top 5 Teams with most Possession
 - Top 8 teams with ther number of touches
-- Slicers(Squad and Qualifications) 
+- Slicers(Squad and Qualifications)
+
+## The League Table
+
+![](league table p.png)
+
+This table shows the total number of teams that played in the 2022/2023 premier leagues season, their positions at the end of the season and their qualification awards.
+At the end of the season, the team with the most point comes top and other teams follow suit in descending order.
+The first four teams at the end of the season automatically qualifies for the UEFA Champions league while the 5th and 6th position qualifies for the UEFA Europa League. Leaving the 18th , 19th  and 20th teams in that position for relegation to a lower league.
+
+
 
 
 
