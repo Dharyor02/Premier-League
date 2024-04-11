@@ -76,6 +76,12 @@ This Table gives an insight on the Top 5 players with highest number of Goal Ass
 
 When a team has more possession, they have more control over the ball and can dictate the pace of the game. Possession allows them to build up their attacks, create scoring opportunities and ultimately increase their chances of scoring goals. The table above shows Manchester city has the highest possession throughout the 2022/2023 season thereby contributing to their outstanding performance.
 
+## Teams with the best defence
+
+![](defence.png)
+
+When a team has a disciplined defensive organization, coupled with the Manager's tactical acumen, the team automatically becomes a formidable force to break down. This chart was computed by using a column titled, Goal conceded. Goal conceded is just the number of goals a team receives during a football match/season. The team with the least goals conceded coupled with other statisics, has a higher chance of having a good performance all through a league season. 
+
 ## Top 8 teams with ther number of touches
 
 ![](touches.png)
