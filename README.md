@@ -96,7 +96,7 @@ An Example will be explained below with selecting  Manchester City on the Squad 
 
 ## Conclusion
 
-![](dashboard.png)
+![](mancity.png)
 
 This Chart gives some important explanation as to how Manchester city won the 2022/2023 premier league season
 	Manchester city with Position 1 out of 20 teams, has a total of 92 goals(1039) and 69 goal assist (726).  This means Manchester city contributed 8.85% of the total goals scored  and 9.50% of assists made by all 20 teams in the 2022/2023 premier league season respectively.
@@ -110,7 +110,13 @@ The table also gives the following details;
 ## Recommendation
 
 Every team that wants to have an outstanding performance like Manchester city did needs to employ players that have more scoring abilities like Erling Haaland, and goal contribution skill like Kevin De Bruyne. These players alongside other players contribution gave Manchester city an edge at the Peak of the 2022/2023 premier league season.
-A team needs to work on their ball possession ability which is; building up their attacks, having more touches, more control on the ball, more shots, shots on target and also creating scoring chances.
+
+A team also needs to work on their ball possession ability which comprises of; building up their attacks, having more touches, more control on the ball, more shots, shots on target and also creating scoring chances.
+
+In addition, this data visualization also solves the following problems;
+- Complexity in undestanding different football statistics
+- Problem of predictive insights: this visualization helps to give insight on what teams would have a good performance in the coming season.
+
  I believe the points above if adhered to, will help every other team attain their respective desired performances. 🤓
 
 
